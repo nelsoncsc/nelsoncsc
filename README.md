@@ -5,7 +5,13 @@
 - 📫 You can reach me on Linkedin: https://linkedin.com/in/nelsoncsc
 - 🌎 My personal blog: https://sistenix.com 
 
-[![Nelson Campos' GitHub stats](https://github-readme-stats.vercel.app/api?username=nelsoncsc&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/nelsoncsc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nelsoncsc&count_private=true&show_icons=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/nelsoncsc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsoncsc&layout=compact" />
+</a>
+
 
 <!---
 nelsoncsc/nelsoncsc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
