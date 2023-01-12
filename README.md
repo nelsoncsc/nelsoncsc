@@ -6,10 +6,10 @@
 - 🌎 My personal blog: https://sistenix.com 
 
 <a href="https://github.com/nelsoncsc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nelsoncsc&count_private=true&show_icons=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nelsoncsc&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/nelsoncsc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsoncsc&layout=compact" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nelsoncsc&layout=compact" />
 </a>
 
 
