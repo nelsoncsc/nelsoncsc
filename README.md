@@ -13,10 +13,14 @@
 </div>
 
 ### Publications
+- [Framework for rapid hardware prototyping using custom floating-point arithmetic](https://e.pcloud.link/publink/show?code=XZLOsPZRDNJDUxbQ2Rvd3hNlCeMSpLmIez7) <br>
+**Nelson Campos** PhD Thesis. <br> Loughborough University, United Kingdom.
 - [FPGA Implementation of a Custom Floating-Point Library](https://sistenix.com/INTELLISYS_2022.pdf) <br>
 **Nelson Campos**, Eran Edirisinghe, Shaheen Fatima, Slava Chesnokov, Alexis Lluis <br> Intellisys 2022. Springer, Cham.
 - [FPGA Implementation of Custom Floating-Point Logarithm and Division](https://sistenix.com/ARC_2021.pdf) <br>
 **Nelson Campos**, Slava Chesnokov, Eran Edirisinghe, Alexis Lluis <br> ARC 2021. Springer, Cham.
+- [Uma metodologia de projeto e validação de sistemas de detecção de faces](https://sistenix.com/MSc_Thesis.pdf) <br>
+**Nelson Campos** MSc Thesis (in Portuguese). <br> Universidade Federal de Campina Grande, Brazil.
 - [A Framework for Design and Validation of Face Detection Systems](https://sistenix.com/nelson_framework.pdf) <br>
 **Nelson Campos**, Heron Monteiro, Alisson Brito, Antonio M. N. Lima, Elmar Melcher,
 Marcos Morais <br> IEEE CHILECON 2017, Pucón, Chile.
