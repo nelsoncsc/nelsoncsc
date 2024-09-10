@@ -13,6 +13,8 @@
 </div>
 
 ### Publications
+- [Fast Generation of Custom Floating-Point Spatial Filters on FPGAs](https://arxiv.org/pdf/2409.05837v1)<br>
+**Nelson Campos**, Eran Edirisinghe, Slava Chesnokov, Daniel Larkin. <br> arXiv e-prints (2024): arXiv-2409.05837.
 - [Framework for rapid hardware prototyping using custom floating-point arithmetic](https://e.pcloud.link/publink/show?code=XZLOsPZRDNJDUxbQ2Rvd3hNlCeMSpLmIez7) <br>
 **Nelson Campos** PhD Thesis. <br> Loughborough University, United Kingdom.
 - [FPGA Implementation of a Custom Floating-Point Library](https://sistenix.com/INTELLISYS_2022.pdf) <br>
