@@ -13,21 +13,21 @@
 </div>
 
 ### Publications
-- [Fast Generation of Custom Floating-Point Spatial Filters on FPGAs](https://arxiv.org/pdf/2409.05837v1)<br>
-**Nelson Campos**, Eran Edirisinghe, Slava Chesnokov, Daniel Larkin. <br> arXiv e-prints (2024): arXiv-2409.05837.
-- [Framework for rapid hardware prototyping using custom floating-point arithmetic](https://e.pcloud.link/publink/show?code=XZLOsPZRDNJDUxbQ2Rvd3hNlCeMSpLmIez7) <br>
-**Nelson Campos** PhD Thesis. <br> Loughborough University, United Kingdom.
-- [FPGA Implementation of a Custom Floating-Point Library](https://sistenix.com/INTELLISYS_2022.pdf) <br>
-**Nelson Campos**, Eran Edirisinghe, Shaheen Fatima, Slava Chesnokov, Alexis Lluis <br> Intellisys 2022. Springer, Cham.
-- [FPGA Implementation of Custom Floating-Point Logarithm and Division](https://sistenix.com/ARC_2021.pdf) <br>
-**Nelson Campos**, Slava Chesnokov, Eran Edirisinghe, Alexis Lluis <br> ARC 2021. Springer, Cham.
-- [Uma metodologia de projeto e validação de sistemas de detecção de faces](https://sistenix.com/MSc_Thesis.pdf) <br>
-**Nelson Campos** MSc Thesis (in Portuguese). <br> Universidade Federal de Campina Grande, Brazil.
-- [A Framework for Design and Validation of Face Detection Systems](https://sistenix.com/nelson_framework.pdf) <br>
+- ***Fast Generation of Custom Floating-Point Spatial Filters on FPGAs***<br>
+**Nelson Campos**, Eran Edirisinghe, Slava Chesnokov, Daniel Larkin. <br> [IEEE Access 2024](https://ieeexplore.ieee.org/document/10734090) &nbsp;&nbsp;&nbsp;&nbsp; [arXiv pre-print 2024](https://arxiv.org/pdf/2409.05837v1)
+- ***Framework for rapid hardware prototyping using custom floating-point arithmetic*** <br>
+**Nelson Campos'** [PhD Thesis](https://e.pcloud.link/publink/show?code=XZLOsPZRDNJDUxbQ2Rvd3hNlCeMSpLmIez7). <br> Loughborough University, United Kingdom.
+- ***FPGA Implementation of a Custom Floating-Point Library*** <br>
+**Nelson Campos**, Eran Edirisinghe, Shaheen Fatima, Slava Chesnokov, Alexis Lluis <br> [Intellisys 2022](https://sistenix.com/INTELLISYS_2022.pdf),  Springer, Cham.
+- ***FPGA Implementation of Custom Floating-Point Logarithm and Division*** <br>
+**Nelson Campos**, Slava Chesnokov, Eran Edirisinghe, Alexis Lluis <br> [ARC 2021](https://sistenix.com/ARC_2021.pdf), Springer, Cham.
+- ***Uma metodologia de projeto e validação de sistemas de detecção de faces*** <br>
+**Nelson Campos'** [MSc Thesis (in Portuguese)](https://sistenix.com/MSc_Thesis.pdf). <br> Universidade Federal de Campina Grande, Brazil.
+- ***A Framework for Design and Validation of Face Detection Systems*** <br>
 **Nelson Campos**, Heron Monteiro, Alisson Brito, Antonio M. N. Lima, Elmar Melcher,
-Marcos Morais <br> IEEE CHILECON 2017, Pucón, Chile.
-- [Energy Consumption Measurement of an FPGA Full-HD Video Processing Platform](https://sistenix.com/WCAS_2017.pdf) <br>
+Marcos Morais <br> [IEEE CHILECON 2017](https://sistenix.com/nelson_framework.pdf), Pucón, Chile.
+- ***Energy Consumption Measurement of an FPGA Full-HD Video Processing Platform*** <br>
 Heron A. Monteiro, **Nelson C. S**. Campos, Jozias P. Oliveira, Antonio Marcus N. Lima,
-Alisson V. Brito, Elmar U. K. Melcher <br> WCAS 2017, Fortaleza, Brazil.
-- [A 4-MHz parameterized Logarithm-Square Root IP-Core](https://sistenix.com/SQRTLOG_IPSOC_2016.pdf) <br>
-**Nelson Campos**, Roberto Costa, Elton Costa, Gutemberg Junior, Elmar Melcher <br> IPSOC 2016, Grenoble, France.
+Alisson V. Brito, Elmar U. K. Melcher <br> [WCAS 2017](https://sistenix.com/WCAS_2017.pdf), Fortaleza, Brazil.
+- ***A 4-MHz parameterized Logarithm-Square Root IP-Core*** <br>
+**Nelson Campos**, Roberto Costa, Elton Costa, Gutemberg Junior, Elmar Melcher <br> [IPSOC 2016](https://sistenix.com/SQRTLOG_IPSOC_2016.pdf), Grenoble, France.
