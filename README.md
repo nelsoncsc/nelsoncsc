@@ -16,7 +16,7 @@
 - ***Fast Generation of Custom Floating-Point Spatial Filters on FPGAs***<br>
 **Nelson Campos**, Eran Edirisinghe, Slava Chesnokov, Daniel Larkin. <br> [IEEE Access 2024](https://ieeexplore.ieee.org/document/10734090) &nbsp;&nbsp;&nbsp;&nbsp; [arXiv pre-print 2024](https://arxiv.org/pdf/2409.05837v1)
 - ***Framework for rapid hardware prototyping using custom floating-point arithmetic*** <br>
-**Nelson Campos'** [PhD Thesis](https://e.pcloud.link/publink/show?code=XZLOsPZRDNJDUxbQ2Rvd3hNlCeMSpLmIez7). <br> Loughborough University, United Kingdom.
+**Nelson Campos'** [PhD Thesis](https://repository.lboro.ac.uk/articles/thesis/Framework_for_rapid_hardware_prototyping_using_custom_floating-point_arithmetic/21585504). <br> Loughborough University, United Kingdom.
 - ***FPGA Implementation of a Custom Floating-Point Library*** <br>
 **Nelson Campos**, Eran Edirisinghe, Shaheen Fatima, Slava Chesnokov, Alexis Lluis <br> [Intellisys 2022](https://sistenix.com/INTELLISYS_2022.pdf),  Springer, Cham.
 - ***FPGA Implementation of Custom Floating-Point Logarithm and Division*** <br>
